@@ -1,0 +1,1 @@
+#this exercise is almost strictly deprecated content skipping
